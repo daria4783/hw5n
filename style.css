@@ -24,7 +24,7 @@ img {
   padding: 20px;
   position: fixed;
   bottom: 100px;
-  left: -250px;
+  left: -200px;
   transition: left 500ms;
 }
 .box:hover{
